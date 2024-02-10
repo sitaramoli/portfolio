@@ -11,11 +11,11 @@ import "./../public/Fonts/Morganite/morganiteFont.css";
 
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
-    <React.StrictMode>
-        <BrowserRouter>
-            <PreloadMedia images={Object.values(media)}>
-                <App/>
-            </PreloadMedia>
-        </BrowserRouter>
-    </React.StrictMode>,
+  <React.StrictMode>
+    <BrowserRouter>
+      <PreloadMedia images={Object.values(media)}>
+        <App/>
+      </PreloadMedia>
+    </BrowserRouter>
+  </React.StrictMode>,
 )
