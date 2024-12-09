@@ -28,7 +28,7 @@ const Contact: React.FC = () => {
       <div className="w-full flex flex-col">
         <SocialLinks/>
         <div className="bg-grayscale-950 flex justify-center pb-4 text-grayscale-50">
-          <span>Made by <em>Baymax</em></span>
+          <span>Made by <em>Sitaram</em></span>
         </div>
       </div>
     </div>

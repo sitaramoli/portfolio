@@ -2,7 +2,7 @@ import {m, LazyMotion, domAnimation} from "framer-motion";
 import React from "react";
 
 const HeroText: React.FC = () => {
-  const name = "Baymax ?";
+  const name = "Sita Ram ?";
 
   return (
     <div

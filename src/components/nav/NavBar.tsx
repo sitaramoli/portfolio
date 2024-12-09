@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import {Link} from "react-router-dom";
 import {styles} from '../../styles.js';
 import {navLinks} from "../../constants/constants";
-import {baymaxIcon, menu, close} from "../../assets";
+import {srIcon, menu, close} from "../../assets";
 
 const Navbar: React.FC = () => {
   const [active, setActive] = useState<string>("");
@@ -18,7 +18,7 @@ const Navbar: React.FC = () => {
             setActive("");
             window.scrollTo(0, 0);
           }}>
-          <img src={baymaxIcon} alt={baymaxIcon} className="w-18 h-9 object-contain"/>
+          <img src={srIcon} alt={srIcon} className="w-18 h-9 object-contain"/>
           <p className="text-white text-[18px] font-bold cursor-pointer flex"></p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10" style={{color: '#FFFFFF'}}>

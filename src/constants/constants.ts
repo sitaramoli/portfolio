@@ -68,7 +68,7 @@ const introduction = {
   text: [
     "Hello there, I'm so happy you are here! 😊",
 
-    "My name is Baymax, I'm 25 and a Associate Software Engineer.",
+    "My name is Sitaram, I'm 25 and a Software Engineer.",
 
     "I'm continuously thrilled to partner with individuals and teams who wholeheartedly embrace my fervor for crafting extraordinary experiences. Your visit to my portfolio is deeply appreciated !",
   ],

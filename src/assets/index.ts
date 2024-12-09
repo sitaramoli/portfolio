@@ -1,5 +1,5 @@
 // Logo
-import baymaxIcon from './logo/baymax.png';
+import srIcon from './logo/sr.png';
 
 // Technologies
 import htmlIcon from './tech/html.png';
@@ -48,5 +48,5 @@ export {
     calculator,
     memoryGame,
     avatar,
-    baymaxIcon,
+    srIcon,
 };
